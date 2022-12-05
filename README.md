@@ -1,4 +1,4 @@
-# EVA06_LAB5
+
 Работа с картами Google
 
 ![Screenshot](scrn1.png)
