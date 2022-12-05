@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">Павлодар</string>
+    <string name="startMarker_info">
+        <![CDATA[
+               <b>Ближайшие Отделения Банков</b> <BR>
+        Kaspi Bank, Halyk Bank, Альфа Банк, Евразийский Банк и Bank Home Credit<BR>
+        ]]>
+        </string>
+    <string name="startMarker_file"></string>
+
+    <!--  -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">Kaspi Bank</string>
+    <string name="marker1_txt_click">Kaspi Bank</string>
+    <string name="marker1_info">
+        <![CDATA[
+        <b>Kaspi Bank
+           </b><BR>
+        — казахстанский розничный системообразующий банк,<BR>
+        который предоставляет инновационные финансовые сервисы и продукты через приложение Kaspi.kz.<BR>
+        Телефон: 8 (7272) 58 59 65<BR>
+        Сайт: https://kaspi.kz<BR>
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/KASPI/index.html</string>
+
+    <!--  -->
+
+    <string name="marker2_id">m2</string>
+    <string name="marker2_title">Халык Банк</string>
+    <string name="marker2_txt_click">Народный банк</string>
+    <string name="marker2_info">
+        <![CDATA[
+        <b>АО «Народный Банк Казахстана» </b> <BR>  — казахстанский розничный системообразующий банк,<BR>
+        успешно работающий на благо своих клиентов уже более 97 лет<BR>
+        Телефон: +78000800059 <BR>
+        Сайт: https://halykbank.kz<BR>
+        ]]>
+        </string>
+    <string name="marker2_file">file:///android_asset/HALYK/index.html</string>
+
+    <string name="marker3_id">m3</string>
+    <string name="marker3_title">Банк Хоум Кредит</string>
+    <string name="marker3_txt_click">Bank Home Credit</string>
+    <string name="marker3_info">
+        <![CDATA[
+        <b>Bank Home Credit
+           </b><BR>
+        Home Credit Bank работает в Казахстане с 2005 года,<BR>
+         за 17 лет его клиентами стали более 5 млн человек. <BR>
+        Активная база клиентов составляет 1,5 млн человек, <BR>
+        из которых более 90% пользуются как минимум 2 продуктами банка.<BR>
+        Телефон: +77272445477<BR>
+        Сайт: https://homecredit.kz/<BR>
+        ]]>
+        </string>
+    <string name="marker3_file">file:///android_asset/HOMECREDIT/index.html</string>
+
+    <!--  -->
+
+    <string name="marker4_id">m4</string>
+    <string name="marker4_title">Евразийский Банк</string>
+    <string name="marker4_txt_click">Eurasion Bank</string>
+    <string name="marker4_info">
+        <![CDATA[
+        <b>Евразийский банк </b> <BR> казахстанский коммерческий банк. <BR>
+        Предоставляет широкий спектр банковских услуг.<BR>
+        Головной офис находится в Алматы. <BR>
+        Телефон: +77182903903 <BR>
+        Сайт: https://eubank.kz<BR>
+        ]]>
+        </string>
+    <string name="marker4_file">file:///android_asset/EURASIA/index.html</string>
+
+    <!--  -->
+
+    <string name="marker5_id">m5</string>
+    <string name="marker5_title">Альфа Банк</string>
+    <string name="marker5_txt_click">Alpha Bank</string>
+    <string name="marker5_info">
+        <![CDATA[
+        <b>Альфа Банк </b> <BR>  — крупнейший частный банк в России, <BR>
+        занимающий четвёртое место по размеру активов.<BR>
+        Телефон: +77182704103 <BR>
+        Сайт: https://alfabank.ru<BR>
+        ]]>
+        </string>
+    <string name="marker5_file">file:///android_asset/ALPHA/index.html</string>
+
+</resources>
